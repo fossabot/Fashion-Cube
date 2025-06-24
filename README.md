@@ -1,4 +1,6 @@
 # Fashion Cube-Ecommerce Application
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fthandavamshi1404%2FFashion-Cube.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fthandavamshi1404%2FFashion-Cube?ref=badge_shield)
+
 
 #General Info
 
@@ -32,3 +34,7 @@ front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
 <img src="screen/screen5.png">
 <img src="screen/screen6.png">
 # Fashion-Cube
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fthandavamshi1404%2FFashion-Cube.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fthandavamshi1404%2FFashion-Cube?ref=badge_large)
